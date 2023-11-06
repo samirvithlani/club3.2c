@@ -1,0 +1,22 @@
+
+FIle: --> to achive data persistance we use file or database
+//persistance: to store data permanantly in form of file or database called persistance
+
+//open file
+//read /write/modification
+//close
+
+//file macro FILE *fp;
+
+//modes -->
+//r --> read ->file must be exist
+//w --> write --> file may or may not be exist / if exist then overwrite
+//a --> append --> file may or may not be exist / if exist then append
+//r+ --> read and write --> file must be exist if not then return null value
+//w+ --> write and read --> file may or may not be exist / if exist then overwrite
+//a+ --> append and read --> file may or may not be exist / if exist then append
+//rb --> read binary --> file must be exist
+
+
+//relative path --> file name //file.txt
+//absolute path --> file name with path c:\\user\\desktop\\file.txt
